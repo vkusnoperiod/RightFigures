@@ -1,5 +1,5 @@
-# RightFigures
-## Second HSE coding assignment
+# Second HSE coding assignment
+## RightFigures
 ## Description
 - Develop a console application that allows the user to filter the correct shapes located in text files. 
 - The name of the file (not the path) with the data is supplied by the user to the input of the program.
